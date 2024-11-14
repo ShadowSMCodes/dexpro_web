@@ -33838,7 +33838,7 @@ s=new A.dp(B.j,Math.min(12,A.bf(a,B.X,o).w.a.a*0.01),B.a2,-1)
 i=A.bf(a,B.X,o).w
 j=A.bf(a,B.X,o).w
 k=t.nA
-n=A.a3A(q,A.WS(B.eZ,A.b([new A.jL(B.vz,q,q,l,q),new A.jL(B.aI,q,q,A.a3A(q,A.af_(A.a9z("Privacy Policy",A.fN(q,q,B.j,q,q,q,q,q,q,q,q,A.bf(a,B.X,o).w.a.a*0.04,q,q,B.dQ,q,q,!0,q,q,q,q,q,q,q,q)),q,q),new A.fk(q,q,new A.cI(s,s,s,s),q,q,q,B.ch),j.a.b*0.2,q,q,i.a.a*0.5),q)],k),B.i1),B.vS,m.a.b*0.4,q,q,n.a.a)
+n=A.a3A(q,A.WS(B.eZ,A.b([new A.jL(B.vz,q,q,l,q),new A.jL(B.aI,q,q,A.a3A(q,A.af_(A.a9z("Privacy Policy",A.fN(q,q,B.j,q,q,q,q,q,q,q,q,A.bf(a,B.X,o).w.a.a*0.04,q,q,B.dQ,q,q,!0,q,q,q,q,q,q,q,q)),q,q),new A.fk(q,q,new A.cI(s,s,s,s),q,q,q,B.ch),j.a.b*0.2,q,q,i.a.a*0.5),q)],k),B.i1),B.vS,m.a.b*0.3,q,q,n.a.a)
 m=A.bf(a,B.X,o).w
 i=A.bf(a,B.X,o).w
 j=A.bf(a,B.X,o).w
@@ -40054,7 +40054,7 @@ case 2:return A.M(o,r)}})
 return A.O($async$pa,r)}}
 A.ZX.prototype={}
 A.oA.prototype={
-gls(){return"assets/images/image.jpg"},
+gls(){return"assets/images/image.png"},
 a0D(a){var s,r={},q=a.a
 if(q==null)q=$.JP()
 r.a=r.b=null
